@@ -8,6 +8,10 @@
   </parent>
   <artifactId>gama.ui.display.webrtc</artifactId>
   <packaging>eclipse-plugin</packaging>
+  <properties>
+    <gama.category>gama.category.display</gama.category>
+  </properties>
+
   <build>
     <plugins>
       <plugin>
